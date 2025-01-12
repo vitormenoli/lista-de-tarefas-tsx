@@ -2,6 +2,8 @@
 
 ![Imagem do Projeto](./Imagem%20TO%20DO.png)
 
+[Visite o site do projeto!](https://vitormenoli.github.io/lista-de-tarefas-tsx/)
+
 ## Sobre o Projeto
 
 Este projeto é uma simples lista de tarefas, nomeado como "To Do". Ele foi desenvolvido para gerenciar tarefas de maneira prática e objetiva, permitindo que o usuário adicione, remova e edite tarefas com facilidade.
